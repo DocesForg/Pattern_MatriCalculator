@@ -1,0 +1,8 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixCalculator", "MatrixCalculator\MatrixCalculator.csproj", "{C4953316-F36C-48D8-9BBC-7EFCB2FA9D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixCalculator.Tests", "MatrixCalculator.Tests\MatrixCalculator.Tests.csproj", "{50C255CF-40C7-4C9C-A93C-B2B0CF73F9AE}"
+EndProject
+Global
+EndGlobal

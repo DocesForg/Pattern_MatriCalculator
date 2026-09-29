@@ -1,0 +1,14 @@
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\bin\Debug\net8.0\MatrixCalculator.exe
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\bin\Debug\net8.0\MatrixCalculator.deps.json
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\bin\Debug\net8.0\MatrixCalculator.runtimeconfig.json
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\bin\Debug\net8.0\MatrixCalculator.dll
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\bin\Debug\net8.0\MatrixCalculator.pdb
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.AssemblyInfoInputs.cache
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.AssemblyInfo.cs
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.csproj.CoreCompileInputs.cache
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.dll
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\refint\MatrixCalculator.dll
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.pdb
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\MatrixCalculator.genruntimeconfig.cache
+G:\Рабочий стол\top-secret-project-cs8859-error-in-record-a8988\MatrixCalculator\obj\Debug\net8.0\ref\MatrixCalculator.dll
