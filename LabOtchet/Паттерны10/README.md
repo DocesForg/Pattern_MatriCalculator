@@ -15,12 +15,12 @@ CalculationSubject публикует событие Calculated; наблюда�
 На диаграмме субъект связан с данными Matrix через событие: после расчёта он уведомляет подписчиков о новом результате.
 
 ![image_001_spd2m_image1.png](images/image_001_spd2m_image1.png)
-*Рисунок ********1**** **–** Observer*
+
 
 На диаграмме контекст хранит текущее состояние и может переключаться между реализациями ReadyState и ErrorState, меняя поведение в зависимости от состояния.
 
 ![image_002_spd2m_image2.png](images/image_002_spd2m_image2.png)
-*Рисунок ********2**** - State*
+
 
 
 Полный листинг
@@ -44,10 +44,10 @@ public sealed class ErrorState : ICalculationState { public string Name => "Ош
 public sealed class CalculationContext { public ICalculationState State { get; private set; } = new ReadyState(); public void SetState(ICalculationState state) => State = state; }
 
 ![image_003_spd2m_image3.png](images/image_003_spd2m_image3.png)
-*Рисунок ********3**** – Выполнение **Observer*
+
 
 ![image_004_spd2m_image4.png](images/image_004_spd2m_image4.png)
-*Рисунок ********4**** - Выполнение **State*
+
 
 Вывод: В ходе выполнения лабораторной работы № 10 были реализованы поведенческие паттерны «Наблюдатель» и «Состояние». Наблюдатель обеспечил механизм оповещения заинтересованных компонентов о результатах вычислений через события. Состояние позволило объекту изменять поведение при изменении внутреннего состояния, инкапсулируя логику переходов между состояниями. Это упростило управление реактивной логикой и состоянием приложения.
 

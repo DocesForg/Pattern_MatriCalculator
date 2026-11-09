@@ -15,7 +15,7 @@ Git репозиторий - [https://github.com/DocesForg/Pattern_MatriCalculat
 На диаграмме валидаторы наследуются от общего обработчика и образуют цепочку через ссылку next: каждый обработчик может выполнить свою проверку и передать управление дальше.
 
 ![image_001_spd2m_image1.png](images/image_001_spd2m_image1.png)
-*Рисунок** ************1**** - Chain of Responsibility*
+
 
 Полный листинг
 
@@ -38,7 +38,7 @@ public sealed class NonEmptyValidation : MatrixValidationHandler { protected ove
 public sealed class SameSizeValidation : MatrixValidationHandler { protected override void Check(Matrix left, Matrix? right) { if (right is not null && (left.Rows != right.Rows || left.Columns != right.Columns)) throw new ArgumentException("Размеры матриц различаются."); } }
 
 ![image_002_spd2m_image2.png](images/image_002_spd2m_image2.png)
-*Рисунок ********2**** - Выполнение **Chain** **of** **Responsibility*
+
 
 Вывод: В ходе выполнения лабораторной работы № 8 был реализован поведенческий паттерн «Цепочка обязанностей». Паттерн позволил разнести проверки входных данных на независимые обработчики, которые последовательно передают запрос по цепочке. Это обеспечило гибкость добавления новых правил валидации без изменения существующих классов и упростило поддержку кода.
 
